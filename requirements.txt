@@ -9,3 +9,4 @@ gTTS
 playsound
 pygame
 scikit-learn
+joblib
