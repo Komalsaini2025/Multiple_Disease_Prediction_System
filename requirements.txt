@@ -3,9 +3,7 @@ streamlit-option-menu
 pillow
 numpy
 opencv-python-headless
-tensorflow
-gTTS
-playsound
-pygame
-scikit-learn
 joblib
+tensorflow-cpu
+gTTS
+scikit-learn
