@@ -3,7 +3,6 @@ streamlit-option-menu
 pillow
 numpy
 opencv-python-headless
-joblib
 tensorflow
 gTTS
 playsound
